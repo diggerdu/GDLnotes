@@ -17,7 +17,7 @@
 > 谷歌出品的基于Python的深度学习工具集
 
 工具：Ipython, Pycharm
-
+test
 笔记列表
 - Lesson 1 [Machine Learning to Deep Learning](note/lesson-1/README.md)
 
